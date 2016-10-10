@@ -1,2 +1,3 @@
 # parent-module
-new change
+new change from common
+
